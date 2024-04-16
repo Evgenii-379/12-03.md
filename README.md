@@ -14,6 +14,7 @@
 
 ## Задание 4
 
-- ![scrinshot](https://github.com/Evgenii-379/12-03.md/blob/main/Снимок%20экрана%202024-04-16%20204222.png)
+- ![scrinshot](https://github.com/Evgenii-379/12-03.md/blob/main/Снимок%20экрана%202024-04-16%20235115.png)
+
 
 
